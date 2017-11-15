@@ -1,2 +1,2 @@
-# C---Stack-Data-Structer
-Stack Data Structer Array Implementation
+# C-Stack-Data-Structer
+Implementation of stack data structer using array 
