@@ -1,3 +1,6 @@
+// Written by Utku Darilmaz
+// Contact adress: utkudarilmaz@gmail.com
+
 #include <iostream>
 using namespace std;
 
